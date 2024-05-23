@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data structures and algorithms\\DoAnCuoiKi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E4423F-7B65-42EC-A03F-F10BDE0A69D0}|DoAnCuoiKi\\DoAnCuoiKi.vcxproj|D:\\Data structures and algorithms\\DoAnCuoiKi\\DoAnCuoiKi\\DoAnCuoiKi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13E4423F-7B65-42EC-A03F-F10BDE0A69D0}|DoAnCuoiKi\\DoAnCuoiKi.vcxproj|solutionrelative:DoAnCuoiKi\\DoAnCuoiKi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoAnCuoiKi.cpp",
+              "DocumentMoniker": "D:\\Data structures and algorithms\\DoAnCuoiKi\\DoAnCuoiKi\\DoAnCuoiKi.cpp",
+              "RelativeDocumentMoniker": "DoAnCuoiKi\\DoAnCuoiKi.cpp",
+              "ToolTip": "D:\\Data structures and algorithms\\DoAnCuoiKi\\DoAnCuoiKi\\DoAnCuoiKi.cpp",
+              "RelativeToolTip": "DoAnCuoiKi\\DoAnCuoiKi.cpp",
+              "ViewState": "AQIAACkCAAAAAAAAAAAowGcCAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T09:53:59.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿  DoAnCuoiKi.cpp
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(165,61): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(165,61): warning C4267:         with
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(165,61): warning C4267:         [
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(165,61): warning C4267:             _Ty=int
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(165,61): warning C4267:         ]
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(166,59): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(166,59): warning C4267:         with
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(166,59): warning C4267:         [
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(166,59): warning C4267:             _Ty=int
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(166,59): warning C4267:         ]
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(167,61): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(167,61): warning C4267:         with
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(167,61): warning C4267:         [
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(167,61): warning C4267:             _Ty=int
+D:\Data structures and algorithms\DoAnCuoiKi\DoAnCuoiKi\DoAnCuoiKi.cpp(167,61): warning C4267:         ]
+  DoAnCuoiKi.vcxproj -> D:\Data structures and algorithms\DoAnCuoiKi\x64\Debug\DoAnCuoiKi.exe
