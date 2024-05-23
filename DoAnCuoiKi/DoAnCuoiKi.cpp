@@ -567,6 +567,7 @@ int main() {
         cout << setfill('=') << setw(40) << "" << setfill(' ') << endl;
         cout << "1. Quan Ly Sach" << endl;
         cout << "2. Quan Ly Khach Hang" << endl;
+        cout << "3. Quan Ly Don Hang" << endl;
         cout << "0. Thoat" << endl;
         cout << setfill('-') << setw(40) << "" << setfill(' ') << endl;
         cout << "Nhap lua chon cua ban: ";
@@ -617,7 +618,83 @@ int main() {
             break;
         }
         case 2:
-            // ... (Them cac chuc nang cho Quan Ly Khach Hang)
+            int luaChonKhach;
+            do {
+                cout << "\n" << setfill('=') << setw(40) << "" << setfill(' ') << endl;
+                cout << "===== QUAN LY KHACH HANG =====" << endl;
+                cout << setfill('=') << setw(40) << "" << setfill(' ') << endl;
+                cout << "1. Them khach hang" << endl;
+                cout << "2. Xoa khach hang" << endl;
+                cout << "3. Sua khach hang" << endl;
+                cout << "4. Tim kiem khach hang" << endl;
+                cout << "5. Lich su mua hang" << endl;
+                cout << "6. Hien thi danh sach khach hang" << endl;
+                cout << "0. Quay lai" << endl;
+                cout << setfill('-') << setw(40) << "" << setfill(' ') << endl;
+                cout << "Nhap lua chon cua ban: ";
+                cin >> luaChonKhach;
+                clearCin();
+
+                switch (luaChonKhach) {
+                case 1:
+                    
+                    break;
+                case 2:
+                    
+                    break;
+                case 3:
+                    
+                    break;
+                case 4:
+                    
+                    break;
+                case 5:
+                    
+                    break;
+                case 6:
+                    break;
+                case 0:
+                    break;
+                default:
+                    cout << "Lua chon khong hop le." << endl;
+                }
+            } while (luaChonKhach != 0);
+            break;
+        case 3: 
+            int luaChonDonHang;
+            do {
+                cout << "\n" << setfill('=') << setw(40) << "" << setfill(' ') << endl;
+                cout << "===== QUAN LY DON HANG =====" << endl;
+                cout << setfill('=') << setw(40) << "" << setfill(' ') << endl;
+                cout << "1. Tao don hang" << endl;
+                cout << "2. Xem danh sach hang cho" << endl;
+                cout << "3. Xu ly don hang" << endl;
+                cout << "4. Xem lich su don hang" << endl;
+                cout << "0. Quay lai" << endl;
+                cout << setfill('-') << setw(40) << "" << setfill(' ') << endl;
+                cout << "Nhap lua chon cua ban: ";
+                cin >> luaChonDonHang;
+                clearCin();
+
+                switch (luaChonDonHang) {
+                case 1:
+                    
+                    break;
+                case 2:
+                    
+                    break;
+                case 3:
+                   
+                    break;
+                case 4:
+                    
+                    break;
+                case 0:
+                    break;
+                default:
+                    cout << "Lua chon khong hop le." << endl;
+                }
+            } while (luaChonDonHang != 0);
             break;
         case 0:
             cout << "Thoat chuong trinh." << endl;
